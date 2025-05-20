@@ -89,10 +89,10 @@ public static void extractWorkflowHistory(RecId _recId)
 
 ---
 
-## 🤝 License
+## License
 MIT License — Free for commercial and personal use
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 This is a community-driven tool and is not affiliated with or officially supported by Microsoft. Use responsibly with appropriate security and data governance policies in production environments.
